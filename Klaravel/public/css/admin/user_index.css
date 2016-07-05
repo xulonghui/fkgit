@@ -1,0 +1,31 @@
+
+.main_right form{
+    margin:0 20px;
+}
+
+.main_right form input[type="text"]{
+    width:200px;
+    height:24px;
+    font:14px/24  宋体;
+    border:1px solid #ddd;    
+    border-radius:3px;
+    padding:0 0 0 10px;
+    
+}
+
+.main_right  table{
+    border:0;
+    width:760px;
+    margin:0 auto;
+    border-collapse:collapse;
+}
+
+#hook a{
+    margin:0 3px;
+    font:14px/24px Arial;
+}
+
+
+#hook span{
+    color:red;
+}
